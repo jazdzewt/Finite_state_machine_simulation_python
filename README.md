@@ -2,7 +2,7 @@
 
 ##Project description
 
-This project simulates a finite automaton \( M = (Q, \Sigma, \delta, q_0, F) \). The simulator processes input strings consisting of input symbols, draws the transition diagram, and highlights the current state. After processing, it displays whether the input string is accepted.
+This project simulates a finite automaton M = (Q, Σ, δ, q_0, F). The simulator processes input strings consisting of input symbols, draws the transition diagram, and highlights the current state. After processing, it displays whether the input string is accepted.
 
 Transitions: 
 
